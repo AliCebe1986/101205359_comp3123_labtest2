@@ -37,12 +37,12 @@ OpenWeatherMap API
 Below are the screenshots demonstrating the application's functionality. All screenshots are located in the `screenshots` directory.
 
 1. **Screenshot 1**: App showing Toronto weather (default city).
-   - File: `src/screenshots/screenshot1.png`
+   ![Screenshot 1](screenshots/screenshot1.png)
 
 2. **Screenshot 2**: Searching for a city and viewing updated weather data.
-   - File: `src/screenshots/screenshot3.png`
+   ![Screenshot 2](screenshots/screenshot3.png)
 
 3. **Screenshot 3**: Error handling for invalid city input.
-   - File: `src/screenshots/screenshot2.png`
+   ![Screenshot 3](screenshots/screenshot2.png)
 
 ---
